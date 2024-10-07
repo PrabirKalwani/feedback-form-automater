@@ -22,8 +22,7 @@ Playwright allows us to automate browser actions like clicking buttons, filling 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/feedback-form-script.git
-   cd feedback-form-script
+   git clone https://github.com/PrabirKalwani/feedback-form-automater.git
    ```
 
 2. Set up a virtual environment (optional but recommended):
